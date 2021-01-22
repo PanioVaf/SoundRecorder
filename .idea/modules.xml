@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GluonMobile-SingleViewProject-SoundRecorder.iml" filepath="$PROJECT_DIR$/GluonMobile-SingleViewProject-SoundRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gluonmobile-singleviewproject-soundrecorder.iml" filepath="$PROJECT_DIR$/gluonmobile-singleviewproject-soundrecorder.iml" />
+    </modules>
+  </component>
+</project>
